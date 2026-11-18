@@ -20,3 +20,23 @@
 pre { font-size: 0.85rem; }
 table { display: block; overflow-x: auto; }
 @media (max-width: 600px) { .hero h1 { font-size: 1.7rem; } }
+
+/* ---- free tools ---- */
+.tool-form { display: flex; gap: .6rem; flex-wrap: wrap; margin: 1.2rem 0; }
+.tool-form input, .tool-form select { padding: .65rem .8rem; border: 1px solid #c5ccd3; border-radius: 8px; font-size: 1rem; flex: 1 1 220px; min-width: 0; }
+.tool-form button { padding: .65rem 1.4rem; border: 0; border-radius: 8px; background: #0f766e; color: #fff; font-weight: 600; font-size: 1rem; cursor: pointer; }
+.tool-form button:disabled { opacity: .6; cursor: wait; }
+.tool-result { margin: 1rem 0 2rem; min-height: 1rem; }
+.tool-for { color: #444; margin-bottom: .6rem; }
+.tool-table { width: 100%; border-collapse: collapse; font-size: .92rem; margin: .4rem 0 1rem; }
+.tool-table th, .tool-table td { text-align: left; padding: .45rem .6rem; border-bottom: 1px solid #e3e6ea; vertical-align: top; word-break: break-word; }
+.tool-table th { background: #f5f7f9; }
+.tool-code { display: block; padding: .6rem .8rem; background: #f1f3f5; border-radius: 8px; word-break: break-all; font-size: .85rem; margin: .3rem 0 .8rem; }
+.badge { display: inline-block; padding: .1rem .55rem; border-radius: 999px; font-size: .8rem; font-weight: 600; }
+.badge-ok { background: #d1fae5; color: #065f46; } .badge-warn { background: #fef3c7; color: #92400e; } .badge-bad { background: #fee2e2; color: #991b1b; } .badge-info { background: #e0e7ff; color: #3730a3; }
+.tool-ok { color: #065f46; font-weight: 600; }
+.tool-warn-title { font-weight: 600; margin-bottom: .2rem; } .tool-issues { margin-top: 0; }
+.tool-note { padding: .6rem .8rem; border-radius: 8px; background: #eef2ff; } .tool-note-error { background: #fee2e2; color: #991b1b; } .tool-note-warn { background: #fef3c7; color: #92400e; }
+.tool-section h3 { margin: 1.1rem 0 .3rem; font-size: 1.05rem; }
+.cta-box { border: 1px solid #99d6cf; background: #f0fdfa; border-radius: 10px; padding: 1rem 1.2rem; margin: 2rem 0; }
+.cta-box a.cta { margin-top: .4rem; }

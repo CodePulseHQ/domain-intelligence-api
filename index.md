@@ -33,6 +33,10 @@ curl -sS -X POST \
   <div class="card"><h3><a href="docs/whois-vs-rdap-api.md">WHOIS vs RDAP: how to look up domain registration data through an API</a></h3><p>WHOIS is being replaced by RDAP. What you get, what is hidden, and how to look up registrar, dates and status for many domains.</p></div>
 </div>
 
+## Free tools
+
+Working in the browser, no sign-up: [MX lookup](tools/mx-record-lookup/), [SPF checker](tools/spf-record-checker/), [DMARC checker](tools/dmarc-record-checker/), [DKIM lookup](tools/dkim-record-lookup/), [DNS lookup](tools/dns-lookup/) and [domain expiry checker](tools/domain-expiry-checker/). [All tools](tools/)
+
 ## Frequently asked questions
 
 **Do I need API keys?** No.
