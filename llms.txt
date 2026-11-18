@@ -1,0 +1,6 @@
+# Domain Intelligence API
+
+> WHOIS/RDAP expiry, DNS, SPF/DKIM/DMARC with plain-English fixes, SSL certificate and website technology for any list of domains.
+
+- [Apify Actor](https://apify.com/codepulsehq/domain-intelligence-api): Pay per check that returns data: $0.0008 DNS and email security, $0.001 registration, $0.0008 SSL, $0.0014 website technology per domain (about $0.004 for everything).
+- [Guides](https://codepulsehq.github.io/domain-intelligence-api/): How to check SPF, DKIM and DMARC for many domains at once; How to monitor SSL certificate and domain expiry for a list of domains; How to detect what technology a website uses (a cheaper BuiltWith alternative); WHOIS vs RDAP: how to look up domain registration data through an API

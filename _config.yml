@@ -1,0 +1,20 @@
+title: "Domain Intelligence API"
+tagline: "WHOIS/RDAP expiry, DNS, SPF/DKIM/DMARC with plain-English fixes, SSL certificate and website technology for any list of domains."
+description: "Check SPF, DKIM and DMARC in bulk, monitor SSL and domain expiry, look up WHOIS via RDAP and detect website technology. Guides and examples for Python, curl and automation."
+url: https://codepulsehq.github.io
+baseurl: /domain-intelligence-api
+lang: en
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collection: false
+exclude:
+  - README.md
+  - LICENSE
+  - examples
+header_pages: []
+show_excerpts: false
