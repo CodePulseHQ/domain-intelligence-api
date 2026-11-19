@@ -27,6 +27,7 @@ curl -sS -X POST \
 ## Guides {#guides}
 
 <div class="cards">
+  <div class="card"><h3><a href="docs/spf-too-many-dns-lookups.md">SPF too many DNS lookups: the 10 lookup limit and how to fix it</a></h3><p>What counts toward SPF's 10 DNS lookup limit, how to check your real count and five ways to get under it.</p></div>
   <div class="card"><h3><a href="docs/check-spf-dkim-dmarc-bulk.md">How to check SPF, DKIM and DMARC for many domains at once</a></h3><p>Check email authentication for a whole list of domains in one run, with plain-English problems to fix.</p></div>
   <div class="card"><h3><a href="docs/monitor-ssl-and-domain-expiry.md">How to monitor SSL certificate and domain expiry for a list of domains</a></h3><p>Schedule a daily check of SSL certificates and domain registrations and get warned before anything expires.</p></div>
   <div class="card"><h3><a href="docs/detect-website-technology-api.md">How to detect what technology a website uses (a cheaper BuiltWith alternative)</a></h3><p>Detect the CMS, ecommerce platform, framework, analytics, CDN and tools a website uses, with the evidence for each match.</p></div>
