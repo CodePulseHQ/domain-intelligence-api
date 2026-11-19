@@ -4,6 +4,8 @@ title: "SPF 'too many DNS lookups': what the 10 lookup limit is and how to fix i
 description: "What counts toward SPF's 10 DNS lookup limit, how to check your real count and five ways to get under it."
 ---
 
+# SPF 'too many DNS lookups': what the 10 lookup limit is and how to fix it
+
 Your emails land in spam, or a checker says **"SPF permerror: too many DNS lookups"**. The cause is nearly always the same: your SPF record needs more than 10 DNS lookups.
 
 ## What counts as a lookup
