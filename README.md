@@ -4,6 +4,8 @@ Check domains in bulk: DNS records, SPF/DKIM/DMARC with plain-English fixes, reg
 
 This repository contains runnable examples and how-to guides for the **[Domain Intelligence API on Apify](https://apify.com/codepulsehq/domain-intelligence-api)**, made by [CodePulse](https://codepulsehq.com). The examples call that hosted Actor, so you need a free [Apify](https://apify.com) account and API token. The code here is MIT licensed; the Actor is a paid, hosted service. Pay per check that returns data: $0.0008 DNS and email security, $0.001 registration, $0.0008 SSL, $0.0014 website technology per domain (about $0.004 for everything).
 
+**Try it free:** Apify's free plan includes $5 of monthly credit, so you can run the Actor on real data before paying anything. [Start here](https://apify.com/codepulsehq/domain-intelligence-api).
+
 **Read the guides as a website:** [codepulsehq.github.io/domain-intelligence-api](https://codepulsehq.github.io/domain-intelligence-api/)
 
 ## Quick start
